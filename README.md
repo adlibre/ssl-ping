@@ -1,6 +1,7 @@
 # SSL Ping
 
-Simple utility to ping a _HTTP_ or _HTTPS_ server. This is useful for troubleshooting intermittent network issues.
+Simple utility to ping an _HTTP_ or _HTTPS_ server. This is useful for troubleshooting intermittent network issues,
+or networking issues that result in packet corruption (bit pattern errors) etc.
 
 ## Usage
 
