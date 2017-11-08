@@ -26,3 +26,9 @@ To compile for standalone usage on windows.
     pyinstaller -F ssl-ping.py
     
 This will build a standalone .exe with the bundled `cacert.pem`.
+
+## Docker
+
+This can be run with Docker.
+
+    docker run --rm -t -i docker.io/adlibre/ssl-ping https://example.com
